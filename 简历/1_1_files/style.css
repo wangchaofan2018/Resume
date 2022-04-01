@@ -1,0 +1,245 @@
+﻿.stl_ sup {
+	vertical-align: baseline;
+	position: relative;
+	top: -0.4em;
+}
+.stl_ sub {
+	vertical-align: baseline;
+	position: relative;
+	top: 0.4em;
+}
+.stl_ a:link {text-decoration:none;}
+.stl_ a:visited {text-decoration:none;}
+@media screen and (min-device-pixel-ratio:0), (-webkit-min-device-pixel-ratio:0), (min--moz-device-pixel-ratio: 0) {.stl_view{ font-size:10em; transform:scale(0.1); -moz-transform:scale(0.1); -webkit-transform:scale(0.1); -moz-transform-origin:top left; -webkit-transform-origin:top left; } }
+.stl_layer { }.stl_ie { font-size: 1pt; }
+.stl_ie body { font-size: 12em; }
+@media print{.stl_view {font-size:1em; transform:scale(1);}}
+.stl_grlink { position:relative;width:100%;height:100%;z-index:1000000; }
+.stl_01 {
+	position: absolute;
+	white-space: nowrap;
+}
+.stl_02 {
+	font-size: 1em;
+	line-height: 0.0em;
+	width: 49.58333em;
+	height: 70.16666em;
+	border-style: none;
+	display: block;
+	margin: 0em;
+}
+
+@supports(-ms-ime-align:auto) { .stl_02 {overflow: hidden;}}
+.stl_03 {
+	position: relative;
+}
+.stl_04 {
+	position: absolute;
+	left: 0em;
+	top: 0em;
+}
+.stl_05 {
+	position: relative;
+	width: 49.58333em;
+}
+.stl_06 {
+	height: 7.016666em;
+}
+.stl_ie .stl_06 {
+	height: 70.16666em;
+}
+@font-face {
+	font-family:"IHUFTA+Times New Roman";
+	src:url("../fonts/d056f15d-0000-0000-0000-000000000000.woff") format("woff");
+}
+.stl_07 {
+	font-size: 0.083333em;
+	font-family: "IHUFTA+Times New Roman", "Times New Roman";
+	color: #FFFFFF;
+}
+.stl_08 {
+	line-height: 1.107422em;
+}
+.stl_09 {
+	letter-spacing: -0.0023em;
+}
+
+.stl_ie .stl_09 {
+	letter-spacing: -0.0031px;
+}
+@font-face {
+	font-family:"NNGLVB+Microsoft YaHei Bold";
+	src:url("../fonts/34ccd456-0001-0000-0000-000000000000.woff") format("woff");
+}
+.stl_10 {
+	font-size: 1.166667em;
+	font-family: "NNGLVB+Microsoft YaHei Bold", "Times New Roman";
+	color: #000000;
+}
+.stl_11 {
+	line-height: 1.319824em;
+}
+.stl_12 {
+	letter-spacing: 0.0279em;
+}
+
+.stl_ie .stl_12 {
+	letter-spacing: 0.5208px;
+}
+@font-face {
+	font-family:"QBUGWM+Microsoft YaHei";
+	src:url("../fonts/ddacfac8-0000-0000-0000-000000000000.woff") format("woff");
+}
+.stl_13 {
+	font-size: 0.75em;
+	font-family: "QBUGWM+Microsoft YaHei", "Times New Roman";
+	color: #000000;
+}
+.stl_14 {
+	letter-spacing: 0.042em;
+}
+
+.stl_ie .stl_14 {
+	letter-spacing: 0.5046px;
+}
+.stl_15 {
+	letter-spacing: 0.0409em;
+}
+
+.stl_ie .stl_15 {
+	letter-spacing: 0.4912px;
+}
+.stl_16 {
+	letter-spacing: 0.0434em;
+}
+
+.stl_ie .stl_16 {
+	letter-spacing: 0.5208px;
+}
+.stl_17 {
+	letter-spacing: 0.0423em;
+}
+
+.stl_ie .stl_17 {
+	letter-spacing: 0.5075px;
+}
+.stl_18 {
+	letter-spacing: 0em;
+}
+
+.stl_ie .stl_18 {
+	letter-spacing: 0px;
+}
+.stl_19 {
+	font-size: 0.833333em;
+	font-family: "NNGLVB+Microsoft YaHei Bold", "Times New Roman";
+	color: #FFFFFF;
+}
+.stl_20 {
+	letter-spacing: 0.0391em;
+}
+
+.stl_ie .stl_20 {
+	letter-spacing: 0.5208px;
+}
+.stl_21 {
+	font-size: 0.75em;
+	font-family: "NNGLVB+Microsoft YaHei Bold", "Times New Roman";
+	color: #000000;
+}
+.stl_22 {
+	letter-spacing: 0.0433em;
+}
+
+.stl_ie .stl_22 {
+	letter-spacing: 0.5199px;
+}
+.stl_23 {
+	letter-spacing: 0.0421em;
+}
+
+.stl_ie .stl_23 {
+	letter-spacing: 0.505px;
+}
+.stl_24 {
+	letter-spacing: 0.0418em;
+}
+
+.stl_ie .stl_24 {
+	letter-spacing: 0.5014px;
+}
+.stl_25 {
+	letter-spacing: 0.0431em;
+}
+
+.stl_ie .stl_25 {
+	letter-spacing: 0.5176px;
+}
+.stl_26 {
+	letter-spacing: 0.0419em;
+}
+
+.stl_ie .stl_26 {
+	letter-spacing: 0.503px;
+}
+.stl_27 {
+	letter-spacing: 0.0414em;
+}
+
+.stl_ie .stl_27 {
+	letter-spacing: 0.4967px;
+}
+.stl_28 {
+	letter-spacing: 0.0413em;
+}
+
+.stl_ie .stl_28 {
+	letter-spacing: 0.4959px;
+}
+.stl_29 {
+	letter-spacing: 0.0415em;
+}
+
+.stl_ie .stl_29 {
+	letter-spacing: 0.4975px;
+}
+.stl_30 {
+	letter-spacing: 0.043em;
+}
+
+.stl_ie .stl_30 {
+	letter-spacing: 0.5159px;
+}
+.stl_31 {
+	font-size: 0.75em;
+	font-family: "NNGLVB+Microsoft YaHei Bold", "Times New Roman";
+	color: #4183FF;
+}
+.stl_32 {
+	letter-spacing: 0.0422em;
+}
+
+.stl_ie .stl_32 {
+	letter-spacing: 0.5067px;
+}
+.stl_33 {
+	letter-spacing: 0.0426em;
+}
+
+.stl_ie .stl_33 {
+	letter-spacing: 0.5115px;
+}
+.stl_34 {
+	letter-spacing: 0.0427em;
+}
+
+.stl_ie .stl_34 {
+	letter-spacing: 0.5122px;
+}
+.stl_35 {
+	letter-spacing: 0.0375em;
+}
+
+.stl_ie .stl_35 {
+	letter-spacing: 0.4495px;
+}
